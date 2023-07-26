@@ -4,19 +4,19 @@ Submit date: 2023/8/2 23:59
 
 Submit format: 包含執行檔在內的資料夾壓縮檔(your_name.zip)
 
-*Requirement:*
+Requirement:
 
-Title
+**Title**
 
-Image File (icon)
+**Image File (icon)**
 
-Check Box
+**Check Box**
 
-Radio Button
+**Radio Button**
 
-Push Button
+**Push Button**
 
-Text File
+**Text File**
 
 ![圖片1](https://github.com/bblabNTU/LabHW_112_Undergraduate/assets/104425402/8ca4939a-fe5a-42ff-bee3-e5363910ad62)
 以上功能可以參考Sample Code，也可以使用先前自己做的點餐系統
