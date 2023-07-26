@@ -4,7 +4,7 @@ Submit date: 2023/8/2 23:59
 
 Submit format: 包含執行檔在內的資料夾壓縮檔(your_name.zip)
 
-*Requirement:
+*Requirement:*
 
 Title
 
