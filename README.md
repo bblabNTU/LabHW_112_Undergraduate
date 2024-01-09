@@ -11,3 +11,5 @@
 - HW1(鄧喬尹): Qt點餐系統+打包exe
 - HW2(廖晨宇): Qt小畫家
 - HW3(劉易霖): OpenCV實作grayscale & filter
+- ML_HW(鄧喬尹): Image embedding & Orange
+- DL_HW(廖晨宇):
